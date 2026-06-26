@@ -355,7 +355,7 @@ Production Head | Manufacturing Analytics Professional | Power BI Developer
 ### Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/shivamkrrajput](http://www.linkedin.com/in/shivamkrrajput)
-* GitHub: github.com/shivamkrrajput
+* GitHub: https://github.com/rajputshivam011
 
 ---
 
